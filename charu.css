@@ -1,0 +1,45 @@
+body {
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrCKVj1-g3zHrU5AeECjoDetg4Hmocpqa2BQ&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d{
+    position: absolute;
+}
+h1{
+    background-color: lightslategray;
+    text-align: center;
+    color: lemonchiffon;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+    font-family: sans-serif;
+}
+.a img{
+    width: 400px;
+    float: right;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.b img{
+    width: 400px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.c img{
+    width: 400px;
+    float: right;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.e img{
+    width: 400px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.f img{
+    width: 400px;
+    position: absolute;
+    left: 450px;
+    bottom: -70px;
+}
